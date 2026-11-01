@@ -18,27 +18,33 @@
       "title": "Hmmmm",
       "creator": "voiceofruthie",
       "source": "User-supplied voiceofruthie-hmmmm-338158.mp3",
-      "bytes": 32644,
-      "sha256": "77d6cc62c9b6e68f1547ec1ba56616340d0a92b16e61820ca4cf19d1ff7c8510",
-      "processing": "Loudness normalized to -18 LUFS, -2 dBTP; mono 44.1kHz MP3 96kbps"
+      "bytes": 16657,
+      "sha256": "fd5a67fe9b39d3181492625680838d0b6ecea5a006697e56d6825fc1b89f484d",
+      "processing": "User-supplied faster edit, timing preserved; loudness normalized to -18 LUFS, -2 dBTP; mono 44.1kHz MP3 96kbps",
+      "editSource": "voiceofruthie-hmmmm-338158 (mp3cut.net).mp3",
+      "editSourceSha256": "0d305b72fc7fb37ce3a87220f24fd61e453e55ee98ac917a4073b944a05f875f"
     },
     {
       "file": "aah.mp3",
       "title": "Ahh",
       "creator": "freesound_community",
       "source": "User-supplied freesound_community-ahh-48063.mp3",
-      "bytes": 43929,
-      "sha256": "d5340388c957c0d208167454c04dec585579a923ae1402f03ddc94b4ea6b7fb7",
-      "processing": "Loudness normalized to -18 LUFS, -2 dBTP; mono 44.1kHz MP3 96kbps"
+      "bytes": 17284,
+      "sha256": "aec50d5b7aa15d835ab9f9234c41bd6734ed541214f02868b706ee6343656309",
+      "processing": "User-supplied faster edit, timing preserved; loudness normalized to -18 LUFS, -2 dBTP; mono 44.1kHz MP3 96kbps",
+      "editSource": "freesound_community-ahh-48063 (mp3cut.net).mp3",
+      "editSourceSha256": "f45ee1f10bf61e7279366729067672abe9aa9096a366b6dbcb13c15d6d1eeae9"
     },
     {
       "file": "whoopsie.mp3",
       "title": "Whoopsie",
       "creator": "jacqtydus",
       "source": "https://pixabay.com/sound-effects/people-whoopsie-390054/",
-      "bytes": 25121,
-      "sha256": "89ec9972d4ce0a97bb6fe7b3c68f42b6c9ae0d1617a5434edd32e5371f0d1281",
-      "processing": "Loudness normalized to -18 LUFS, -2 dBTP; mono 44.1kHz MP3 96kbps"
+      "bytes": 15090,
+      "sha256": "3ebe36197d6ada88d2d6c1b214095b329d50e8016ce838f593911f8698debd8c",
+      "processing": "User-supplied faster edit, timing preserved; loudness normalized to -18 LUFS, -2 dBTP; mono 44.1kHz MP3 96kbps",
+      "editSource": "jacqtydus-whoopsie-390054 (mp3cut.net).mp3",
+      "editSourceSha256": "1437dd6bf4e0c3f0b8c5e38b197b6b7afa0b6a61b87558de87f7b07dcd7dabc0"
     }
   ]
 }

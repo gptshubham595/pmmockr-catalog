@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="stock-up-title stock-up-desc">
-  <title id="stock-up-title">Stock Up</title>
-  <desc id="stock-up-desc">MockPM Stock Up line icon.</desc>
-  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <polyline points="4 16 9 11 13 15 20 8"/>
-    <polyline points="15 8 20 8 20 13"/>
-  </g>
-</svg>

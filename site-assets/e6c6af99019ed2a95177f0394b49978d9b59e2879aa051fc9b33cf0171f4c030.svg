@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="activity-title activity-desc">
-  <title id="activity-title">Activity</title>
-  <desc id="activity-desc">MockPM Activity line icon.</desc>
-  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <polyline points="3 12 7 12 9 6 13 18 15 12 21 12"/>
-  </g>
-</svg>

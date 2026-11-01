@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="arrow-up-title arrow-up-desc">
-  <title id="arrow-up-title">Arrow Up</title>
-  <desc id="arrow-up-desc">MockPM Arrow Up line icon.</desc>
-  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <line x1="12" y1="20" x2="12" y2="5"/>
-    <polyline points="6 11 12 5 18 11"/>
-  </g>
-</svg>

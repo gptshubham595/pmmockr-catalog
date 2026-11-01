@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="crown-title crown-desc">
-  <title id="crown-title">Pro Crown</title>
-  <desc id="crown-desc">MockPM Pro Crown line icon.</desc>
-  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4 18h16l1-10-5 4-4-7-4 7-5-4z"/>
-    <line x1="6" y1="21" x2="18" y2="21"/>
-  </g>
-</svg>

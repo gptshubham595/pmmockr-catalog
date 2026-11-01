@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="filter-title filter-desc">
-  <title id="filter-title">Filter</title>
-  <desc id="filter-desc">MockPM Filter line icon.</desc>
-  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4 5h16l-6 7v5l-4 2v-7z"/>
-  </g>
-</svg>

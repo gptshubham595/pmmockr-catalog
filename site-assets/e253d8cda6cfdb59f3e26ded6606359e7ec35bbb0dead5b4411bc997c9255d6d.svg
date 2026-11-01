@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="asset-title asset-desc">
-  <title id="asset-title">Profile Placeholder Avatar</title>
-  <desc id="asset-desc">MockPM generated asset following docs/styles.json dark executive coaching visual system.</desc>
-  <rect width="160" height="160" rx="80" fill="#1b1b1d"/>
-  <rect x="2" y="2" width="156" height="156" rx="78" fill="none" stroke="#424754" stroke-width="4"/>
-  <circle cx="80" cy="62" r="26" fill="none" stroke="#adc6ff" stroke-width="8"/>
-  <path d="M38 128c8-28 24-42 42-42s34 14 42 42" fill="none" stroke="#4edea3" stroke-width="8" stroke-linecap="round"/>
-</svg>

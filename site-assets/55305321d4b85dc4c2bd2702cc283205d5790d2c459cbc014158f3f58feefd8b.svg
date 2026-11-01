@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="mic-off-title mic-off-desc">
+  <title id="mic-off-title">Microphone Off</title>
+  <desc id="mic-off-desc">MockPM Microphone Off line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="9" y="4" width="6" height="10" rx="3"/>
+    <path d="M5 11a7 7 0 0 0 11.5 5.4"/>
+    <path d="M19 11a7 7 0 0 1-.6 2.8"/>
+    <line x1="12" y1="18" x2="12" y2="21"/>
+    <line x1="9" y1="21" x2="15" y2="21"/>
+    <line x1="4" y1="4" x2="20" y2="20"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="share-2-title share-2-desc">
+  <title id="share-2-title">Share</title>
+  <desc id="share-2-desc">MockPM Share line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="18" cy="5" r="2.2"/>
+    <circle cx="6" cy="12" r="2.2"/>
+    <circle cx="18" cy="19" r="2.2"/>
+    <line x1="8" y1="11" x2="16" y2="6"/>
+    <line x1="8" y1="13" x2="16" y2="18"/>
+  </g>
+</svg>

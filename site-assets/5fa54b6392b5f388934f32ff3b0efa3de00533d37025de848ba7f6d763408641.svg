@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="bot-title bot-desc">
+  <title id="bot-title">AI Coach</title>
+  <desc id="bot-desc">MockPM AI Coach line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5" y="7" width="14" height="11" rx="3"/>
+    <line x1="12" y1="4" x2="12" y2="7"/>
+    <circle cx="9" cy="12" r="0.8"/>
+    <circle cx="15" cy="12" r="0.8"/>
+    <line x1="10" y1="15" x2="14" y2="15"/>
+  </g>
+</svg>

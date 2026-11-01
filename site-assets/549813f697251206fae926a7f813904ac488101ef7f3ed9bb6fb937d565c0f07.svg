@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="asset-title asset-desc">
+  <title id="asset-title">PMMockr Maskable Favicon</title>
+  <desc id="asset-desc">PMMockr maskable icon based on the PMMockr brand icon.</desc>
+  <rect width="512" height="512" rx="112" fill="#0f0f10"/>
+  <rect x="44" y="44" width="424" height="424" rx="92" fill="#1b1b1d" stroke="#424754" stroke-width="12"/>
+  <circle cx="256" cy="256" r="184" fill="#f7f7f5"/>
+  <path d="M256 72C320 208 384 240 440 256C384 272 320 304 256 440C200 312 192 200 256 72Z" fill="#30302e"/>
+  <path d="M256 72C224 184 224 328 256 440C176 408 72 352 72 256C72 160 176 104 256 72Z" fill="#ffffff" opacity="0.72"/>
+</svg>

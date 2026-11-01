@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="save-title save-desc">
+  <title id="save-title">Save</title>
+  <desc id="save-desc">MockPM Save line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5" y="4" width="14" height="16" rx="2"/>
+    <path d="M8 4v6h8V4"/>
+    <rect x="8" y="15" width="8" height="5" rx="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="upload-title upload-desc">
+  <title id="upload-title">Upload</title>
+  <desc id="upload-desc">MockPM Upload line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="12" y1="16" x2="12" y2="5"/>
+    <polyline points="7 10 12 5 17 10"/>
+    <path d="M5 19h14"/>
+  </g>
+</svg>

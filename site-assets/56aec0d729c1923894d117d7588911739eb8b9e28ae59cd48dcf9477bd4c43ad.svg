@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="notification-title notification-desc">
+  <title id="notification-title">Notification</title>
+  <desc id="notification-desc">MockPM Notification line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 17h12"/>
+    <path d="M8 17V10a4 4 0 1 1 8 0v7"/>
+    <path d="M10 20a2 2 0 0 0 4 0"/>
+  </g>
+</svg>

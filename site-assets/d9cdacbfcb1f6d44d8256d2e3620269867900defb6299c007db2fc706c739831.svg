@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="asset-title asset-desc">
+  <title id="asset-title">Video Tile Placeholder</title>
+  <desc id="asset-desc">MockPM generated asset following docs/styles.json dark executive coaching visual system.</desc>
+  <rect width="320" height="180" rx="12" fill="#1b1b1d"/>
+  <rect x="0.5" y="0.5" width="319" height="179" rx="11.5" fill="none" stroke="#424754"/>
+  <circle cx="160" cy="78" r="28" fill="none" stroke="#adc6ff" stroke-width="6"/>
+  <path d="M116 142c9-34 26-50 44-50s35 16 44 50" fill="none" stroke="#4edea3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M246 136h30v20h-30z" fill="none" stroke="#424754" stroke-width="4"/>
+  <path d="M276 142l16-9v26l-16-9z" fill="none" stroke="#424754" stroke-width="4"/>
+</svg>

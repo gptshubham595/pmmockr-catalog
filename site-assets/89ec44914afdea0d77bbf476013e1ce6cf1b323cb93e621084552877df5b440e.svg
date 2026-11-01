@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">What a PM vibe coding interview tests and how to prepare</title>
+  <desc id="desc">PMMockr visual guide for What a PM vibe coding interview tests and how to prepare</desc>
+  <rect width="1200" height="630" fill="#f7fdf9"/>
+  <rect x="48" y="48" width="1104" height="534" rx="28" fill="#ffffff" stroke="#7dd3c7" stroke-width="2"/>
+  <circle cx="1040" cy="142" r="72" fill="#d8f3e8"/>
+  <circle cx="1068" cy="122" r="28" fill="#0f766e" opacity="0.16"/>
+  <path d="M 160 392 L 310 424 L 460 451 L 610 453 L 760 429 L 910 396 L 1060 380" fill="none" stroke="#0f766e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="392" r="23" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <circle cx="310" cy="424" r="13" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <circle cx="460" cy="451" r="18" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <circle cx="610" cy="453" r="23" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <circle cx="760" cy="429" r="13" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <circle cx="910" cy="396" r="18" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <circle cx="1060" cy="380" r="23" fill="#f7fdf9" stroke="#0f766e" stroke-width="4"/>
+  <text x="94" y="112" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="0">PMMOCKR BLOG</text>
+  <text x="94" y="174" fill="#16241b" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="850">
+    <tspan x="94" dy="0">What a PM vibe coding</tspan>
+    <tspan x="94" dy="58">interview tests and how to</tspan>
+    <tspan x="94" dy="58">prepare</tspan>
+  </text>
+  <rect x="94" y="493" width="356" height="64" rx="32" fill="#d8f3e8" stroke="#7dd3c7" stroke-width="2"/>
+  <circle cx="130" cy="525" r="22" fill="#1f5eff"/>
+  <text x="130" y="533" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="850">SG</text>
+  <text x="164" y="517" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800">AUTHORED BY</text>
+  <text x="164" y="539" fill="#16241b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Shubham Gupta</text>
+  <rect x="470" y="493" width="152" height="64" rx="32" fill="#ffffff" stroke="#7dd3c7" stroke-width="2"/>
+  <text x="546" y="519" text-anchor="middle" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="850">LIKED</text>
+  <text x="546" y="540" text-anchor="middle" fill="#16241b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">0 likes</text>
+  <rect x="642" y="493" width="168" height="64" rx="32" fill="#ffffff" stroke="#7dd3c7" stroke-width="2"/>
+  <text x="726" y="519" text-anchor="middle" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="850">READ TIME</text>
+  <text x="726" y="540" text-anchor="middle" fill="#16241b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">6 min guide</text>
+  <rect x="830" y="493" width="276" height="64" rx="32" fill="#ffffff" stroke="#7dd3c7" stroke-width="2"/>
+  <text x="968" y="519" text-anchor="middle" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="850">INDEXED UNDER</text>
+  <text x="968" y="540" text-anchor="middle" fill="#16241b" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Technical PM</text>
+</svg>

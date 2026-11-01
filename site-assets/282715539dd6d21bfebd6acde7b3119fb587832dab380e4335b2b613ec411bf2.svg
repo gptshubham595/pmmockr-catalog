@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-labelledby="title desc">
+  <title id="title">Execution concept artwork</title>
+  <desc id="desc">Abstract execution board with milestones, rollout lanes, and status checks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="16" x2="296" y2="134" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172842"/>
+      <stop offset=".52" stop-color="#1d2532"/>
+      <stop offset="1" stop-color="#14251b"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="150" rx="16" fill="#111112"/>
+  <rect x="8" y="8" width="304" height="134" rx="14" fill="url(#bg)"/>
+  <rect x="54" y="38" width="212" height="74" rx="14" fill="#111112" fill-opacity=".58" stroke="#64748b" stroke-opacity=".38"/>
+  <path d="M88 56v38M150 56v38M212 56v38" stroke="#64748b" stroke-opacity=".28" stroke-width="3"/>
+  <circle cx="88" cy="75" r="16" fill="#adc6ff" opacity=".9"/>
+  <path d="M81 75l5 5 10-12" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="75" r="16" fill="#4edea3" opacity=".9"/>
+  <path d="M142 75h16M150 67v16" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="212" cy="75" r="16" fill="#ffb95f" opacity=".9"/>
+  <path d="M205 75h14" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M64 116h190" stroke="#4edea3" stroke-width="4" stroke-linecap="round" opacity=".35"/>
+</svg>

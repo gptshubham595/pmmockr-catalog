@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="contest-question-stack-light-title contest-question-stack-light-desc">
+  <title id="contest-question-stack-light-title">Light stone contest question tablets</title>
+  <desc id="contest-question-stack-light-desc">A stack of light royal stone case tablets for previous contest questions.</desc>
+  <defs>
+    <linearGradient id="question-light-bg" x1="18" y1="18" x2="302" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset=".5" stop-color="#eaf2ff"/>
+      <stop offset="1" stop-color="#fff7e8"/>
+    </linearGradient>
+    <filter id="question-light-shadow" x="-18%" y="-22%" width="136%" height="150%">
+      <feDropShadow dx="0" dy="11" stdDeviation="9" flood-color="#466286" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <ellipse cx="160" cy="184" rx="118" ry="18" fill="#2563eb" opacity=".12"/>
+  <g filter="url(#question-light-shadow)">
+    <rect x="14" y="16" width="292" height="188" rx="20" fill="url(#question-light-bg)" stroke="#bed0ec" stroke-width="2"/>
+    <path d="M76 48h132l18 18v86H58V66l18-18Z" fill="#ffffff" stroke="#8aa4ce" stroke-opacity=".72" stroke-width="2"/>
+    <path d="M196 48v20h20" fill="#edf5ff" stroke="#7ea2d8" stroke-opacity=".78"/>
+    <path d="M82 78h90M82 100h116M82 122h74" stroke="#647995" stroke-opacity=".58" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="176" cy="111" r="17" fill="#f8fffb" stroke="#10b981"/>
+    <path d="M170 111l5 5 10-12" fill="none" stroke="#059669" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M124 72h132l18 18v86H106V90l18-18Z" fill="#fffaf0" stroke="#d99522" stroke-opacity=".74" stroke-width="2"/>
+    <path d="M246 72v22h22" fill="#fff3d0" stroke="#d99522" stroke-opacity=".74"/>
+    <path d="M132 103h92M132 125h118M132 147h74" stroke="#7a5a32" stroke-opacity=".5" stroke-width="8" stroke-linecap="round"/>
+    <rect x="218" y="126" width="46" height="25" rx="12" fill="#ffffff" stroke="#d99522"/>
+    <text x="241" y="143" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" font-weight="900" fill="#b45309">Q</text>
+  </g>
+</svg>

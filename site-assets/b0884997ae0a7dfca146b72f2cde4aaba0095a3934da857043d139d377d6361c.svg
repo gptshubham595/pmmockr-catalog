@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="chevron-up-title chevron-up-desc">
+  <title id="chevron-up-title">Chevron Up</title>
+  <desc id="chevron-up-desc">MockPM Chevron Up line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="6 15 12 9 18 15"/>
+  </g>
+</svg>

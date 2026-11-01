@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="asset-title asset-desc">
+  <title id="asset-title">PMMockr Brand Mark</title>
+  <desc id="asset-desc">PMMockr favicon mark based on the PMMockr brand icon.</desc>
+  <rect width="64" height="64" rx="14" fill="#0f0f10"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#424754" stroke-width="2"/>
+  <circle cx="32" cy="32" r="23" fill="#f7f7f5"/>
+  <path d="M32 9C40 26 48 30 55 32C48 34 40 38 32 55C25 39 24 25 32 9Z" fill="#30302e"/>
+  <path d="M32 9C28 23 28 41 32 55C22 51 9 44 9 32C9 20 22 13 32 9Z" fill="#ffffff" opacity="0.72"/>
+</svg>

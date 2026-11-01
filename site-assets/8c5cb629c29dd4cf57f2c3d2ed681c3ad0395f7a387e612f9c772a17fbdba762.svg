@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="terminal-title terminal-desc">
+  <title id="terminal-title">Terminal</title>
+  <desc id="terminal-desc">MockPM Terminal line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="5" width="16" height="14" rx="2"/>
+    <polyline points="7 9 10 12 7 15"/>
+    <line x1="12" y1="15" x2="17" y2="15"/>
+  </g>
+</svg>

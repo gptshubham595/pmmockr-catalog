@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="strategy-title strategy-desc">
+  <title id="strategy-title">Product strategy plan artwork</title>
+  <desc id="strategy-desc">A strategy map with market position, competitive moves, and opportunity sizing.</desc>
+  <defs>
+    <linearGradient id="strategy-bg" x1="20" y1="18" x2="300" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2b263b"/>
+      <stop offset=".52" stop-color="#1f2a36"/>
+      <stop offset="1" stop-color="#241f16"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="160" rx="18" fill="#111112"/>
+  <rect x="8" y="8" width="304" height="144" rx="16" fill="url(#strategy-bg)" opacity=".94"/>
+  <rect x="62" y="32" width="196" height="94" rx="14" fill="#10151d" fill-opacity=".68" stroke="#f4bf4f" stroke-opacity=".3"/>
+  <path d="M92 108V55M92 108h142" stroke="#dbeafe" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+  <path d="M105 96c22-31 42-24 58-38 22-20 45-10 64-28" fill="none" stroke="#f4bf4f" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="105" cy="96" r="7" fill="#f4bf4f"/>
+  <circle cx="163" cy="58" r="7" fill="#a78bfa"/>
+  <circle cx="227" cy="30" r="7" fill="#4edea3"/>
+  <rect x="110" y="74" width="34" height="18" rx="6" fill="#a78bfa" opacity=".72"/>
+  <rect x="177" y="82" width="38" height="18" rx="6" fill="#4edea3" opacity=".72"/>
+  <path d="M44 48h36M232 118h36" stroke="#dbeafe" stroke-width="4" stroke-linecap="round" opacity=".28"/>
+</svg>

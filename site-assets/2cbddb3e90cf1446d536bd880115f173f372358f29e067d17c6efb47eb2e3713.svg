@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="eye-off-title eye-off-desc">
+  <title id="eye-off-title">Hidden</title>
+  <desc id="eye-off-desc">MockPM Hidden line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 12s3.2-6 9-6c2 0 3.7.7 5.1 1.6"/>
+    <path d="M21 12s-3.2 6-9 6c-2 0-3.7-.7-5.1-1.6"/>
+    <line x1="4" y1="4" x2="20" y2="20"/>
+    <path d="M10 10a2.6 2.6 0 0 0 4 4"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="map-title map-desc">
+  <title id="map-title">Map</title>
+  <desc id="map-desc">MockPM Map line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 6l5-2 6 2 5-2v14l-5 2-6-2-5 2z"/>
+    <line x1="9" y1="4" x2="9" y2="18"/>
+    <line x1="15" y1="6" x2="15" y2="20"/>
+  </g>
+</svg>

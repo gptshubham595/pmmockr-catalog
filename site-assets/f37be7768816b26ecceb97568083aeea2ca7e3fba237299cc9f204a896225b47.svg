@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="contest-standings-board-title contest-standings-board-desc">
+  <title id="contest-standings-board-title">Contest standings board</title>
+  <desc id="contest-standings-board-desc">Final contest standings panel with highlighted top rank and compact lower ranking rows.</desc>
+  <defs>
+    <linearGradient id="standings-board-bg" x1="16" y1="18" x2="304" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17213a"/>
+      <stop offset=".52" stop-color="#151515"/>
+      <stop offset="1" stop-color="#231432"/>
+    </linearGradient>
+    <linearGradient id="standings-rank-one" x1="58" y1="70" x2="262" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b2166"/>
+      <stop offset="1" stop-color="#211a0e"/>
+    </linearGradient>
+  </defs>
+  <path d="M62 52h18v7a9 9 0 0 1-18 0v-7Z" fill="#c084fc" fill-opacity=".22" stroke="#c084fc" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M62 55h-6a6 6 0 0 0 6 6M80 55h6a6 6 0 0 1-6 6M68 72h6M65 78h12" fill="none" stroke="#c084fc" stroke-width="2" stroke-linecap="round"/>
+  <rect x="94" y="52" width="96" height="11" rx="5.5" fill="#f7efe2" opacity=".84"/>
+  <rect x="208" y="54" width="42" height="8" rx="4" fill="#adc6ff" opacity=".58"/>
+  <rect x="48" y="82" width="224" height="48" rx="8" fill="url(#standings-rank-one)" stroke="#9d6cff" stroke-opacity=".76"/>
+  <text x="68" y="114" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" fill="#d8c3ff">01</text>
+  <rect x="112" y="98" width="70" height="9" rx="4.5" fill="#f7efe2" opacity=".86"/>
+  <rect x="112" y="114" width="52" height="6" rx="3" fill="#adc6ff" opacity=".72"/>
+  <rect x="216" y="100" width="36" height="9" rx="4.5" fill="#f7efe2" opacity=".82"/>
+  <rect x="60" y="146" width="200" height="18" rx="9" fill="#111112" fill-opacity=".62"/>
+  <text x="76" y="159" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" font-weight="900" fill="#adc6ff">02</text>
+  <rect x="100" y="153" width="80" height="6" rx="3" fill="#e5e2e1" opacity=".58"/>
+  <rect x="220" y="153" width="28" height="6" rx="3" fill="#4edea3" opacity=".62"/>
+  <rect x="60" y="174" width="200" height="18" rx="9" fill="#111112" fill-opacity=".46"/>
+  <text x="76" y="187" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" font-weight="900" fill="#64748b">03</text>
+  <rect x="100" y="181" width="68" height="6" rx="3" fill="#e5e2e1" opacity=".42"/>
+  <rect x="220" y="181" width="25" height="6" rx="3" fill="#4edea3" opacity=".44"/>
+</svg>

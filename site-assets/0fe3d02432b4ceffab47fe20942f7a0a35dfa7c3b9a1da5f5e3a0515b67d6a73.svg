@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+  <title id="title">Product sense plan artwork</title>
+  <desc id="desc">Abstract product map with user segments, ideas, and prioritization paths.</desc>
+  <defs>
+    <linearGradient id="bg" x1="28" y1="12" x2="292" y2="148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1b2f56"/>
+      <stop offset="1" stop-color="#122217"/>
+    </linearGradient>
+    <linearGradient id="card" x1="70" y1="30" x2="250" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#adc6ff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#4edea3" stop-opacity=".85"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="160" rx="18" fill="#111112"/>
+  <rect x="8" y="8" width="304" height="144" rx="16" fill="url(#bg)" opacity=".88"/>
+  <path d="M40 122 C86 80 107 112 145 70 C183 28 220 62 280 35" fill="none" stroke="#adc6ff" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+  <rect x="58" y="42" width="86" height="58" rx="14" fill="#151a22" stroke="#6f8bc4" stroke-opacity=".55"/>
+  <rect x="176" y="54" width="86" height="58" rx="14" fill="#151a22" stroke="#4edea3" stroke-opacity=".5"/>
+  <circle cx="101" cy="72" r="18" fill="url(#card)" opacity=".95"/>
+  <path d="M91 74h20M101 64v20" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M202 72h34M202 84h24M202 96h42" stroke="#dbeafe" stroke-width="5" stroke-linecap="round" opacity=".82"/>
+  <circle cx="54" cy="40" r="7" fill="#4edea3"/>
+  <circle cx="274" cy="115" r="10" fill="#adc6ff" opacity=".88"/>
+  <circle cx="246" cy="32" r="5" fill="#ffb95f"/>
+</svg>

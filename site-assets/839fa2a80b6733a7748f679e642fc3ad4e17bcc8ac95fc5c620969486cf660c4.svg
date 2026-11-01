@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="contest-standings-board-light-title contest-standings-board-light-desc">
+  <title id="contest-standings-board-light-title">Light contest standings board</title>
+  <desc id="contest-standings-board-light-desc">A light royal standings board with three ranked rows and score bars.</desc>
+  <defs>
+    <linearGradient id="standings-light-panel" x1="36" y1="42" x2="284" y2="194" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset=".52" stop-color="#edf5ff"/>
+      <stop offset="1" stop-color="#fff7e8"/>
+    </linearGradient>
+    <filter id="standings-light-shadow" x="-18%" y="-22%" width="136%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#466286" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <ellipse cx="160" cy="182" rx="118" ry="18" fill="#2563eb" opacity=".12"/>
+  <g filter="url(#standings-light-shadow)">
+    <rect x="42" y="40" width="236" height="150" rx="18" fill="url(#standings-light-panel)" stroke="#bed0ec" stroke-width="2"/>
+    <path d="M76 70h42M142 70h68M228 70h22" stroke="#8aa4ce" stroke-width="7" stroke-linecap="round"/>
+    <rect x="60" y="94" width="200" height="26" rx="13" fill="#fffaf0" stroke="#d99522" stroke-opacity=".72"/>
+    <text x="78" y="111" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" font-weight="900" fill="#b45309">01</text>
+    <path d="M100 107h74" stroke="#647995" stroke-width="7" stroke-linecap="round" opacity=".6"/>
+    <path d="M216 107h30" stroke="#10b981" stroke-width="7" stroke-linecap="round" opacity=".82"/>
+    <rect x="60" y="132" width="200" height="22" rx="11" fill="#ffffff" stroke="#8aa4ce" stroke-opacity=".5"/>
+    <text x="78" y="147" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" font-weight="900" fill="#2563eb">02</text>
+    <path d="M100 143h62" stroke="#647995" stroke-width="6" stroke-linecap="round" opacity=".48"/>
+    <path d="M216 143h26" stroke="#10b981" stroke-width="6" stroke-linecap="round" opacity=".58"/>
+    <rect x="60" y="164" width="200" height="20" rx="10" fill="#f8fbff" stroke="#8aa4ce" stroke-opacity=".38"/>
+    <text x="78" y="178" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" font-weight="900" fill="#64748b">03</text>
+    <path d="M100 174h52" stroke="#647995" stroke-width="6" stroke-linecap="round" opacity=".38"/>
+    <path d="M216 174h22" stroke="#10b981" stroke-width="6" stroke-linecap="round" opacity=".42"/>
+    <path d="M67 47l5 9 10 2-7 7 1 10-9-5-9 5 1-10-7-7 10-2 5-9Z" fill="#f59e0b"/>
+  </g>
+</svg>

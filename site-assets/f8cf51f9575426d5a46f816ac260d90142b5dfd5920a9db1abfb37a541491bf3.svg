@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">How to use leading and lagging metrics in PM interviews</title>
+  <desc id="desc">PMMockr visual guide for How to use leading and lagging metrics in PM interviews</desc>
+  <rect width="1200" height="630" fill="#fff8fb"/>
+  <rect x="48" y="48" width="1104" height="534" rx="28" fill="#ffffff" stroke="#f3a4c5" stroke-width="2"/>
+  <circle cx="1040" cy="142" r="72" fill="#fbd7e8"/>
+  <circle cx="1068" cy="122" r="28" fill="#be185d" opacity="0.16"/>
+  <path d="M 160 381 L 289 389 L 417 420 L 546 449 L 674 455 L 803 432 L 931 399 L 1060 380" fill="none" stroke="#be185d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="381" r="18" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="289" cy="389" r="23" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="417" cy="420" r="13" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="546" cy="449" r="18" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="674" cy="455" r="23" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="803" cy="432" r="13" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="931" cy="399" r="18" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <circle cx="1060" cy="380" r="23" fill="#fff8fb" stroke="#be185d" stroke-width="4"/>
+  <text x="94" y="112" fill="#be185d" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="0">PMMOCKR BLOG</text>
+  <text x="94" y="174" fill="#2a1820" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="850">
+    <tspan x="94" dy="0">How to use leading and</tspan>
+    <tspan x="94" dy="58">lagging metrics in PM interviews</tspan>
+  </text>
+  <rect x="94" y="493" width="356" height="64" rx="32" fill="#fbd7e8" stroke="#f3a4c5" stroke-width="2"/>
+  <circle cx="130" cy="525" r="22" fill="#ff9900"/>
+  <text x="130" y="533" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="850">SG4</text>
+  <text x="164" y="517" fill="#be185d" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800">AUTHORED BY</text>
+  <text x="164" y="539" fill="#2a1820" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Shivam Gupta</text>
+  <rect x="470" y="493" width="152" height="64" rx="32" fill="#ffffff" stroke="#f3a4c5" stroke-width="2"/>
+  <text x="546" y="519" text-anchor="middle" fill="#be185d" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="850">LIKED</text>
+  <text x="546" y="540" text-anchor="middle" fill="#2a1820" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">0 likes</text>
+  <rect x="642" y="493" width="168" height="64" rx="32" fill="#ffffff" stroke="#f3a4c5" stroke-width="2"/>
+  <text x="726" y="519" text-anchor="middle" fill="#be185d" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="850">READ TIME</text>
+  <text x="726" y="540" text-anchor="middle" fill="#2a1820" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">6 min guide</text>
+  <rect x="830" y="493" width="276" height="64" rx="32" fill="#ffffff" stroke="#f3a4c5" stroke-width="2"/>
+  <text x="968" y="519" text-anchor="middle" fill="#be185d" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="850">INDEXED UNDER</text>
+  <text x="968" y="540" text-anchor="middle" fill="#2a1820" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="850">Metrics</text>
+</svg>

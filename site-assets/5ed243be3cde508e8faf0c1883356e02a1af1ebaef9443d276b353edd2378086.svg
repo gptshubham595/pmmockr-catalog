@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="duel-result-title duel-result-desc">
+  <title id="duel-result-title">Silent Duel Result Verdict</title>
+  <desc id="duel-result-desc">Post-match verdict artwork with winner banner, score bars, answer comparison tabs, and review panel.</desc>
+  <defs>
+    <linearGradient id="result-bg" x1="20" y1="18" x2="300" y2="162" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17213a"/>
+      <stop offset=".62" stop-color="#15171d"/>
+      <stop offset="1" stop-color="#1f2118"/>
+    </linearGradient>
+    <linearGradient id="result-win" x1="54" y1="44" x2="142" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4d8eff"/>
+      <stop offset="1" stop-color="#4edea3"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="12" fill="#111112"/>
+  <rect x="10" y="10" width="300" height="160" rx="12" fill="url(#result-bg)" stroke="#424754"/>
+  <rect x="24" y="24" width="272" height="36" rx="8" fill="#111112" fill-opacity=".82" stroke="#6f8bc4" stroke-opacity=".42"/>
+  <path d="M148 46h24M160 34v24" stroke="#4edea3" stroke-width="3" stroke-linecap="round"/>
+  <rect x="40" y="36" width="70" height="10" rx="5" fill="url(#result-win)"/>
+  <rect x="210" y="36" width="62" height="10" rx="5" fill="#DC2626" opacity=".66"/>
+  <rect x="24" y="72" width="128" height="76" rx="8" fill="#1b1b1d" stroke="#424754"/>
+  <rect x="40" y="88" width="72" height="8" rx="4" fill="#c4c7d0" opacity=".5"/>
+  <rect x="40" y="108" width="88" height="8" rx="4" fill="#4d8eff" opacity=".78"/>
+  <rect x="40" y="124" width="70" height="8" rx="4" fill="#4edea3" opacity=".78"/>
+  <rect x="40" y="140" width="54" height="8" rx="4" fill="#ffb95f" opacity=".82"/>
+  <rect x="168" y="72" width="128" height="76" rx="8" fill="#1b1b1d" stroke="#424754"/>
+  <rect x="184" y="88" width="74" height="8" rx="4" fill="#c4c7d0" opacity=".5"/>
+  <rect x="184" y="108" width="68" height="8" rx="4" fill="#DC2626" opacity=".62"/>
+  <rect x="184" y="124" width="86" height="8" rx="4" fill="#ffb95f" opacity=".72"/>
+  <rect x="184" y="140" width="46" height="8" rx="4" fill="#64748b" opacity=".62"/>
+  <rect x="58" y="158" width="204" height="8" rx="4" fill="#111112" stroke="#424754"/>
+  <rect x="70" y="158" width="42" height="8" rx="4" fill="#4d8eff" opacity=".72"/>
+  <rect x="126" y="158" width="42" height="8" rx="4" fill="#4edea3" opacity=".72"/>
+  <rect x="182" y="158" width="42" height="8" rx="4" fill="#ffb95f" opacity=".72"/>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="pencil-title pencil-desc">
+  <title id="pencil-title">Edit Pencil</title>
+  <desc id="pencil-desc">MockPM Edit Pencil line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 20l4.2-1 10.1-10.1a2.1 2.1 0 0 0-3-3L5.2 16z"/>
+    <line x1="14.8" y1="7.4" x2="17.6" y2="10.2"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="asset-title asset-desc">
+  <title id="asset-title">Voice Interview Thumbnail</title>
+  <desc id="asset-desc">MockPM generated asset following docs/styles.json dark executive coaching visual system.</desc>
+  <rect width="320" height="180" rx="12" fill="#131313"/><rect x="18" y="18" width="132" height="144" rx="10" fill="#1b1b1d" stroke="#424754"/><rect x="170" y="18" width="132" height="76" rx="10" fill="#1b1b1d" stroke="#424754"/><rect x="170" y="108" width="132" height="54" rx="10" fill="#1b1b1d" stroke="#424754"/><g stroke-linecap="round"><line x1="50" y1="96" x2="50" y2="122" stroke="#adc6ff" stroke-width="5"/><line x1="68" y1="82" x2="68" y2="136" stroke="#4edea3" stroke-width="5"/><line x1="86" y1="70" x2="86" y2="148" stroke="#adc6ff" stroke-width="5"/><line x1="104" y1="88" x2="104" y2="130" stroke="#4edea3" stroke-width="5"/><line x1="122" y1="100" x2="122" y2="118" stroke="#adc6ff" stroke-width="5"/></g>
+</svg>

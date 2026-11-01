@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+  <title id="title">Guesstimates plan artwork</title>
+  <desc id="desc">Abstract estimation grid with assumption ranges and sizing markers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="22" y1="18" x2="300" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#222a42"/>
+      <stop offset=".55" stop-color="#1a2526"/>
+      <stop offset="1" stop-color="#2a2416"/>
+    </linearGradient>
+    <linearGradient id="range" x1="76" y1="110" x2="244" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#adc6ff"/>
+      <stop offset=".5" stop-color="#4edea3"/>
+      <stop offset="1" stop-color="#ffb95f"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="160" rx="18" fill="#111112"/>
+  <rect x="8" y="8" width="304" height="144" rx="16" fill="url(#bg)" opacity=".9"/>
+  <g opacity=".28" stroke="#c2c6d6" stroke-width="1">
+    <path d="M52 38h216M52 66h216M52 94h216M52 122h216M84 30v100M128 30v100M172 30v100M216 30v100"/>
+  </g>
+  <path d="M68 112c20-28 38-38 60-32 24 7 33-21 56-18 26 3 34-20 68-28" fill="none" stroke="url(#range)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="68" cy="112" r="7" fill="#adc6ff"/>
+  <circle cx="128" cy="80" r="7" fill="#4edea3"/>
+  <circle cx="184" cy="62" r="7" fill="#4d8eff"/>
+  <circle cx="252" cy="34" r="7" fill="#ffb95f"/>
+  <rect x="70" y="48" width="46" height="18" rx="9" fill="#111112" fill-opacity=".72" stroke="#adc6ff" stroke-opacity=".42"/>
+  <rect x="198" y="96" width="54" height="18" rx="9" fill="#111112" fill-opacity=".72" stroke="#ffb95f" stroke-opacity=".48"/>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="rank-down-title rank-down-desc">
+  <title id="rank-down-title">Rank Down</title>
+  <desc id="rank-down-desc">MockPM Rank Down line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="5 8 10 13 14 9 20 15"/>
+    <polyline points="15 15 20 15 20 10"/>
+    <path d="M4 21h16"/>
+  </g>
+</svg>

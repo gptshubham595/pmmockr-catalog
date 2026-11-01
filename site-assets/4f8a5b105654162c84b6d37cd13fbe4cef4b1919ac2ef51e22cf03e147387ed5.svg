@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="trending-down-title trending-down-desc">
+  <title id="trending-down-title">Trending Down</title>
+  <desc id="trending-down-desc">MockPM Trending Down line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="4 8 9 13 13 9 20 16"/>
+    <polyline points="15 16 20 16 20 11"/>
+  </g>
+</svg>

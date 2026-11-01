@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="zap-title zap-desc">
+  <title id="zap-title">Fast Action</title>
+  <desc id="zap-desc">MockPM Fast Action line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="13 2 4 14 11 14 10 22 20 9 13 9"/>
+  </g>
+</svg>

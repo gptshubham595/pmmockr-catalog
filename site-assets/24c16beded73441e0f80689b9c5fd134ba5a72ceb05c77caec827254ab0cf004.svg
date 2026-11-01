@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-labelledby="title desc">
+  <title id="title">Strategy concept artwork</title>
+  <desc id="desc">Abstract market strategy map with positioning wedges and tradeoff routes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="22" y1="16" x2="298" y2="134" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#222344"/>
+      <stop offset=".52" stop-color="#232437"/>
+      <stop offset="1" stop-color="#242016"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="150" rx="16" fill="#111112"/>
+  <rect x="8" y="8" width="304" height="134" rx="14" fill="url(#bg)"/>
+  <circle cx="160" cy="76" r="48" fill="#111112" fill-opacity=".5" stroke="#64748b" stroke-opacity=".35"/>
+  <path d="M160 76l42-30a52 52 0 0 1 9 50z" fill="#ffb95f" opacity=".82"/>
+  <path d="M160 76l-42 31a52 52 0 0 1-5-58z" fill="#adc6ff" opacity=".72"/>
+  <path d="M160 76l48 21a52 52 0 0 1-60 29z" fill="#4edea3" opacity=".76"/>
+  <circle cx="160" cy="76" r="12" fill="#111827"/>
+  <path d="M66 42h54M218 42h38M70 114h44M220 116h34" stroke="#e5e2e1" stroke-opacity=".3" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="mail-title mail-desc">
+  <title id="mail-title">Mail</title>
+  <desc id="mail-desc">MockPM Mail line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.5" y="5.5" width="17" height="13" rx="2"/>
+    <path d="M4 7l8 6 8-6"/>
+  </g>
+</svg>

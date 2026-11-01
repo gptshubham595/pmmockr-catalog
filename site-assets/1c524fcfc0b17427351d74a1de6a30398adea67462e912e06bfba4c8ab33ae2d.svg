@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="all-inclusive-title all-inclusive-desc">
+  <title id="all-inclusive-title">All Inclusive</title>
+  <desc id="all-inclusive-desc">MockPM All Inclusive line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7.5 8.5c-2 0-3.5 1.5-3.5 3.5s1.5 3.5 3.5 3.5c3 0 5.5-7 9-7 2 0 3.5 1.5 3.5 3.5s-1.5 3.5-3.5 3.5c-3 0-5.5-7-9-7z"/>
+  </g>
+</svg>

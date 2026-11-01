@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="bar-chart-3-title bar-chart-3-desc">
+  <title id="bar-chart-3-title">Bar Chart Three</title>
+  <desc id="bar-chart-3-desc">MockPM Bar Chart Three line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="4" y1="20" x2="20" y2="20"/>
+    <rect x="6" y="12" width="3" height="8" rx="1"/>
+    <rect x="11" y="8" width="3" height="12" rx="1"/>
+    <rect x="16" y="5" width="3" height="15" rx="1"/>
+  </g>
+</svg>

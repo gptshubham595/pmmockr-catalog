@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="send-title send-desc">
+  <title id="send-title">Send Message</title>
+  <desc id="send-desc">MockPM Send Message line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="4 4 21 12 4 20 7 12"/>
+  </g>
+</svg>

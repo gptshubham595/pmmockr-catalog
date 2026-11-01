@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="history-title history-desc">
+  <title id="history-title">History</title>
+  <desc id="history-desc">MockPM History line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 12a8 8 0 1 0 2.4-5.7"/>
+    <path d="M4 5v5h5"/>
+    <path d="M12 8v4.5l3 2"/>
+  </g>
+</svg>

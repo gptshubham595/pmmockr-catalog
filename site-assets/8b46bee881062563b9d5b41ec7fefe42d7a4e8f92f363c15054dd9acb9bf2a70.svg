@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="external-link-title external-link-desc">
+  <title id="external-link-title">External Link</title>
+  <desc id="external-link-desc">MockPM External Link line icon.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5" y="7" width="12" height="12" rx="2"/>
+    <polyline points="13 5 19 5 19 11"/>
+    <line x1="11" y1="13" x2="19" y2="5"/>
+  </g>
+</svg>

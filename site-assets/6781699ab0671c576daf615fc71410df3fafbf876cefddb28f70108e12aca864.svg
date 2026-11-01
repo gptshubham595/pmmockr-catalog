@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="contest-winner-podium-title contest-winner-podium-desc">
+  <title id="contest-winner-podium-title">Contest winner podium</title>
+  <desc id="contest-winner-podium-desc">A podium for the top three contest ranks with a PMMockr rank-gem marker.</desc>
+  <defs>
+    <linearGradient id="winner-podium-bg" x1="18" y1="16" x2="342" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#211a0e"/>
+      <stop offset=".5" stop-color="#141414"/>
+      <stop offset="1" stop-color="#17213a"/>
+    </linearGradient>
+    <linearGradient id="winner-podium-gold" x1="134" y1="30" x2="226" y2="178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffddb8"/>
+      <stop offset=".48" stop-color="#ffb95f"/>
+      <stop offset="1" stop-color="#ca8100"/>
+    </linearGradient>
+  </defs>
+  <circle cx="180" cy="68" r="34" fill="#211a0e" stroke="#ffb95f" stroke-width="2"/>
+  <path d="M180 44l22 14-7 29-15 13-15-13-7-29 22-14Z" fill="url(#winner-podium-gold)" stroke="#ffddb8" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M180 48v47M164 59l16-11 16 11M166 86h28" fill="none" stroke="#ffddb8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".76"/>
+  <path d="M180 55l5 9 10 2-7 7 1 10-9-5-9 5 1-10-7-7 10-2 5-9Z" fill="#ca8100" opacity=".9"/>
+  <rect x="133" y="116" width="94" height="66" rx="10" fill="#211a0e" stroke="#ffb95f" stroke-opacity=".62"/>
+  <rect x="48" y="140" width="84" height="42" rx="10" fill="#171b24" stroke="#adc6ff" stroke-opacity=".42"/>
+  <rect x="228" y="152" width="84" height="30" rx="10" fill="#171717" stroke="#424754"/>
+  <text x="180" y="154" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" fill="#ffb95f">1</text>
+  <text x="90" y="166" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="24" font-weight="900" fill="#adc6ff">2</text>
+  <text x="270" y="174" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="20" font-weight="900" fill="#64748b">3</text>
+  <rect x="66" y="190" width="228" height="8" rx="4" fill="#4edea3" opacity=".44"/>
+</svg>
